@@ -1,10 +1,11 @@
 # Palindrome Checker Program
-# This program checks whether the given input is a palindrome or not.
+# This script verifies whether the entered text is a palindrome.
 
-value = input("Enter a word or number: ")
+value = input("Enter text or number: ").lower()
 
-# Check if the value is equal to its reverse
+# Compare the string with its reversed version
 if value == value[::-1]:
-    print("The given input is a Palindrome")
+    print("Result: Palindrome detected")
 else:
-    print("The given input is Not a Palindrome")
+    print("Result: Not a palindrome")
+
