@@ -1,0 +1,19 @@
+# Simple Task Manager
+
+A beginner-friendly task manager application that allows users to add, view, and delete daily tasks.
+
+## 📌 Project Overview
+This project is created to help beginners understand basic web development concepts using simple HTML, CSS, and JavaScript.
+
+## ✨ Features
+- Add new tasks
+- View task list
+- Delete tasks
+- Simple and clean UI
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📂 Project Structure
